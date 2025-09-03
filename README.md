@@ -1,16 +1,15 @@
-# Power BI Project: Climate Change & Income Inequality  
+# Power BI Project: Climate Change & Income Inequality
 
-This project explores how climate change affects income inequality across developed and developing countries.  
+This project explores how climate change impacts income inequality across developed and developing countries.  
 
-## Files  
-- `pbi 1.pbix`: Power BI dashboard (main project file)  
-- `climate change data with inequality.xlsx`: Dataset used for analysis  
-- `Screenshot 2025-09-02 222423.png`: Sample screenshot of the dashboard  
+## Files
+- **climate_inequality.pbix**: Main Power BI report file  
+- **climate_inequality_data.xlsx**: Dataset used for analysis  
+- **dashboard_overview.png**: Screenshot of the dashboard  
 
-## Tools Used  
-- Power BI Desktop  
-- Excel dataset  
+## Tools Used
+- Power BI (visualization & reporting)  
+- Excel (data preparation)  
 
-## Insights  
-- Climate change has a disproportionate effect on developing countries, widening inequality gaps.  
-- Developed nations show higher resilience due to stronger infrastructure and social safety nets.  
+## Key Insights
+- Developed vs. developing countries show different trends in HDI, GDP growth, and Gini Index under climate impact.
